@@ -1,11 +1,18 @@
-### Hi there, welcome to my Git Profile 👋
+<img src="https://komarev.com/ghpvc/?username=matthewRodi&style=flat-square&color=blue" alt=""/>
+
+### Hi, I'm Matthew Rodi. Welcome to my Git !!! 👋
+### 📌 About Me
+I am currently a student at Arizona State Univerity, studying Computer Science (Software Engineering). I am in my Senior year with plan to complete my Masters through the 4+1 Accelerated program. I first started my programming journey in 2020 and am always seeking out new experiences to learn more about the software field. 
+
+### :iphone: Here you can find my Socials:
 <div id="badges">
   <a href="https://www.linkedin.com/in/matthew-rodi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/matthew.rodi/?hl=en)">
+    <img src="https://img.shields.io/badge/Instagram-tan?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=matthewRodi&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,8 +31,6 @@
 <!-- Here are the stats creation -->
 ### :chart_with_upwards_trend: GitHub Statistics :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matthewRodi&theme=prussian)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewRodi&layout=compact&theme=prussian&title_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
