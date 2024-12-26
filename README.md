@@ -2,7 +2,7 @@
 
 ### Hi, I'm Matthew Rodi. Welcome to my Git !!! 👋
 ### 📌 About Me
-I am currently a student at Arizona State Univerity, studying Computer Science (Software Engineering). I am in my Senior year with plan to complete my Masters through the 4+1 Accelerated program. I first started my programming journey in 2020 and am always seeking out new experiences to learn more about the software field. 
+I am currently a student at Arizona State Univerity, studying Computer Science (Software Engineering). I am in my Graduate program, currently completing my Masters through the 4+1 Accelerated program. I first started my programming journey in 2020 and am always seeking out new experiences to learn more about the software field. 
 
 ### :iphone: Here you can find my Socials:
 <div id="badges">
